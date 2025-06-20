@@ -103,7 +103,8 @@ firebase hosting:rollback
 
 ## 📸 Prints de Execuções
 
-
+![Prints de Testes](./teste1.png)
+![Prints de Testes](./teste2.png)
 
 
 ## 🗺️ Diagrama de Fluxo Git
