@@ -1,0 +1,14 @@
+{
+  "name": "pixeltrack-devops",
+  "version": "1.0.0",
+  "description": "Projeto DevOps de Revisão - PixelTrack",
+  "main": "src/converterPontos.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'build simulado' > build/index.html"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "type": "commonjs"
+}
